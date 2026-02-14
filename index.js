@@ -9,3 +9,7 @@ function nomina(params) {
 function tarea(params){
     console.log("Estoy haciendo la tarea")
 }
+
+function fin(params){
+    console.log("Terminé la tarea")
+}
